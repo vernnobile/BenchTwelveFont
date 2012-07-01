@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="437"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="181" y="0" type="curve" smooth="yes"/>
+      <point x="256" y="0" type="line" smooth="yes"/>
+      <point x="271" y="0"/>
+      <point x="283" y="34"/>
+      <point x="283" y="77" type="curve" smooth="yes"/>
+      <point x="283" y="269" type="line" smooth="yes"/>
+      <point x="283" y="312"/>
+      <point x="271" y="346"/>
+      <point x="256" y="346" type="curve" smooth="yes"/>
+      <point x="181" y="346" type="line" smooth="yes"/>
+      <point x="166" y="346"/>
+      <point x="154" y="312"/>
+      <point x="154" y="269" type="curve" smooth="yes"/>
+      <point x="154" y="77" type="line" smooth="yes"/>
+      <point x="154" y="34"/>
+      <point x="166" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

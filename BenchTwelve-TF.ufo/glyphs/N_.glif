@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="2711"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="277" y="0" type="curve" smooth="yes"/>
+      <point x="786" y="0" type="line" smooth="yes"/>
+      <point x="829" y="0"/>
+      <point x="863" y="34"/>
+      <point x="863" y="77" type="curve" smooth="yes"/>
+      <point x="863" y="798" type="line" smooth="yes"/>
+      <point x="863" y="813"/>
+      <point x="880" y="821"/>
+      <point x="891" y="811" type="curve" smooth="yes"/>
+      <point x="1700" y="32" type="line" smooth="yes"/>
+      <point x="1735" y="1"/>
+      <point x="1788" y="-18"/>
+      <point x="1835" y="-18" type="curve" smooth="yes"/>
+      <point x="2433" y="-18" type="line" smooth="yes"/>
+      <point x="2476" y="-18"/>
+      <point x="2510" y="16"/>
+      <point x="2510" y="59" type="curve" smooth="yes"/>
+      <point x="2510" y="1359" type="line" smooth="yes"/>
+      <point x="2510" y="1402"/>
+      <point x="2476" y="1436"/>
+      <point x="2433" y="1436" type="curve" smooth="yes"/>
+      <point x="1936" y="1436" type="line" smooth="yes"/>
+      <point x="1893" y="1436"/>
+      <point x="1859" y="1402"/>
+      <point x="1859" y="1359" type="curve" smooth="yes"/>
+      <point x="1859" y="841" type="line" smooth="yes"/>
+      <point x="1859" y="826"/>
+      <point x="1842" y="819"/>
+      <point x="1831" y="828" type="curve"/>
+      <point x="1215" y="1403" type="line" smooth="yes"/>
+      <point x="1180" y="1434"/>
+      <point x="1127" y="1454"/>
+      <point x="1080" y="1454" type="curve" smooth="yes"/>
+      <point x="277" y="1454" type="line" smooth="yes"/>
+      <point x="234" y="1454"/>
+      <point x="200" y="1420"/>
+      <point x="200" y="1377" type="curve" smooth="yes"/>
+      <point x="200" y="77" type="line" smooth="yes"/>
+      <point x="200" y="34"/>
+      <point x="234" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2711</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

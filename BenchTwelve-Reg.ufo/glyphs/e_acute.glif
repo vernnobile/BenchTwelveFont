@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="2040"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="266" y="0" type="curve" smooth="yes"/>
+      <point x="1508" y="0" type="line" smooth="yes"/>
+      <point x="1551" y="0"/>
+      <point x="1575" y="34"/>
+      <point x="1575" y="77" type="curve" smooth="yes"/>
+      <point x="1575" y="110" type="line" smooth="yes"/>
+      <point x="1575" y="153"/>
+      <point x="1551" y="187"/>
+      <point x="1508" y="187" type="curve" smooth="yes"/>
+      <point x="427" y="187" type="line"/>
+      <point x="427" y="647" type="line"/>
+      <point x="1378" y="647" type="line" smooth="yes"/>
+      <point x="1421" y="647"/>
+      <point x="1445" y="681"/>
+      <point x="1445" y="724" type="curve" smooth="yes"/>
+      <point x="1445" y="751" type="line" smooth="yes"/>
+      <point x="1445" y="794"/>
+      <point x="1421" y="828"/>
+      <point x="1378" y="828" type="curve" smooth="yes"/>
+      <point x="427" y="828" type="line"/>
+      <point x="427" y="1226" type="line" smooth="yes"/>
+      <point x="427" y="1246"/>
+      <point x="434" y="1251"/>
+      <point x="454" y="1251" type="curve" smooth="yes"/>
+      <point x="1508" y="1251" type="line" smooth="yes"/>
+      <point x="1551" y="1251"/>
+      <point x="1575" y="1285"/>
+      <point x="1575" y="1328" type="curve" smooth="yes"/>
+      <point x="1575" y="1361" type="line" smooth="yes"/>
+      <point x="1575" y="1404"/>
+      <point x="1551" y="1438"/>
+      <point x="1508" y="1438" type="curve" smooth="yes"/>
+      <point x="266" y="1438" type="line" smooth="yes"/>
+      <point x="223" y="1438"/>
+      <point x="199" y="1404"/>
+      <point x="199" y="1361" type="curve" smooth="yes"/>
+      <point x="199" y="67" type="line" smooth="yes"/>
+      <point x="199" y="24"/>
+      <point x="223" y="0"/>
+    </contour>
+    <contour>
+      <point x="1610" y="1598" type="curve" smooth="yes"/>
+      <point x="1760" y="1598" type="line" smooth="yes"/>
+      <point x="1798" y="1598"/>
+      <point x="1806" y="1620"/>
+      <point x="1816" y="1637" type="curve" smooth="yes"/>
+      <point x="1999" y="1965" type="line" smooth="yes"/>
+      <point x="2006" y="1977"/>
+      <point x="2011" y="1991"/>
+      <point x="2011" y="2002" type="curve" smooth="yes"/>
+      <point x="2011" y="2018"/>
+      <point x="2003" y="2030"/>
+      <point x="1983" y="2030" type="curve" smooth="yes"/>
+      <point x="1706" y="2030" type="line" smooth="yes"/>
+      <point x="1662" y="2030"/>
+      <point x="1643" y="2018"/>
+      <point x="1635" y="1975" type="curve" smooth="yes"/>
+      <point x="1572" y="1665" type="line" smooth="yes"/>
+      <point x="1569" y="1651"/>
+      <point x="1568" y="1639"/>
+      <point x="1568" y="1630" type="curve" smooth="yes"/>
+      <point x="1568" y="1603"/>
+      <point x="1581" y="1598"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2040</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

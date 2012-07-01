@@ -1,0 +1,65 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="111003_1758_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="130.0" />
+<data name="previewtext" value="Bonhec Hapob" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Bench12-Cond-Light.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+<!-- color for Bench12-Cond-Light.ufo -->
+<color a="1.000000" b="0.000000" g="0.000000" r="1.000000" />
+</master>
+<master filename="Bench12-Cond-Black.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1" />
+</location>
+<!-- color for Bench12-Cond-Black.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx-0_07">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-0.0714" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx0_21">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.2142" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx0_58">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.5753" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx1_11">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="1.1127" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx0_93">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.9302" />
+</location>
+</instance>
+</designspace>
