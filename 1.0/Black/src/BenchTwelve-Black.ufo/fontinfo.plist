@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>BenchTwelve</string>
+	<key>styleName</key>
+	<string>Black</string>
+	<key>copyright</key>
+	<string>vernon adams (c) 2012</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1006</integer>
+	<key>capHeight</key>
+	<integer>1438</integer>
+	<key>ascender</key>
+	<integer>1493</integer>
+	<key>descender</key>
+	<integer>-363</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/06/16 10:59:52</string>
+	<key>openTypeNameDesigner</key>
+	<string>vernon adams</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>6</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>900</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>3715</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-340</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2077</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>750</integer>
+	<key>postscriptFontName</key>
+	<string>BenchTwelve-Black</string>
+	<key>postscriptFullName</key>
+	<string>BenchTwelve Black</string>
+	<key>postscriptWeightName</key>
+	<string>Black</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueShift</key>
+	<integer>5</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.02773750014603138</real>
+    </dict>
+</plist>

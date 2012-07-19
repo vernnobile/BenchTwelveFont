@@ -1,0 +1,92 @@
+
+lookup diacritics {
+  lookupflag 0;
+  markClass [\T ] <anchor 976 0> @bot;
+  markClass [\cedilla ] <anchor 410 -150> @bot;
+  markClass [\comma ] <anchor 296 432> @bot;
+  markClass [\ogonek ] <anchor 430 0> @bot;
+  markClass [\t ] <anchor 1006 0> @bot;
+  markClass [\uni0326 ] <anchor 916 0> @bot;
+  markClass [\acute ] <anchor 1106 983> @top;
+  markClass [\breve \uni0311 ] <anchor 642 1043> @top;
+  markClass [\caron ] <anchor 457 1051> @top;
+  markClass [\circumflex ] <anchor 428 1007> @top;
+  markClass [\dieresis ] <anchor 610 983> @top;
+  markClass [\dotaccent \uni0307 ] <anchor 14 6> @top;
+  markClass [\grave ] <anchor 1338 1024> @top;
+  markClass [\hungarumlaut ] <anchor 434 983> @top;
+  markClass [\macron ] <anchor 552 1033> @top;
+  markClass [\ring ] <anchor 860 1536> @top;
+  markClass [\tilde ] <anchor 8 0> @top;
+  markClass [\uni030F ] <anchor 647 983> @top;
+  pos base [\A ] <anchor 1003 1420> mark @top
+	<anchor 1761 14> mark @bot;
+  pos base [\B ] <anchor 1065 1420> mark @top;
+  pos base [\C ] <anchor 1210 1420> mark @top
+	<anchor 1247 0 <device 150 2> <device NULL>> mark @bot;
+  pos base [\D ] <anchor 1157 1393> mark @top;
+  pos base [\E \N ] <anchor 1030 1436> mark @top
+	<anchor 1132 0> mark @bot;
+  pos base [\F ] <anchor 1000 1438> mark @top;
+  pos base [\G ] <anchor 1250 1420> mark @top
+	<anchor 1262 0> mark @bot;
+  pos base [\H ] <anchor 1121 1434> mark @top;
+  pos base [\I ] <anchor 409 1438> mark @top
+	<anchor 401 0> mark @bot;
+  pos base [\J ] <anchor 833 1438> mark @top;
+  pos base [\K ] <anchor 925 1438> mark @top;
+  pos base [\L ] <anchor 778 1438> mark @top;
+  pos base [\M ] <anchor 1370 1406> mark @top;
+  pos base [\O ] <anchor 1237 1420> mark @top
+	<anchor 1239 0> mark @bot;
+  pos base [\P ] <anchor 1106 1420> mark @top
+	<anchor 1761 14> mark @bot;
+  pos base [\R ] <anchor 1094 1434> mark @top;
+  pos base [\S ] <anchor 1109 1426> mark @top
+	<anchor 1134 3> mark @bot;
+  pos base [\T ] <anchor 970 1438> mark @top;
+  pos base [\U ] <anchor 1246 1414> mark @top
+	<anchor 1258 -5> mark @bot;
+  pos base [\W ] <anchor 1682 1393> mark @top;
+  pos base [\Y ] <anchor 1032 1438> mark @top;
+  pos base [\Z ] <anchor 930 1438> mark @top;
+  pos base [\a \l ] <anchor 880 1007> mark @top
+	<anchor 1604 0> mark @bot;
+  pos base [\c ] <anchor 939 1024> mark @top
+	<anchor 978 0> mark @bot;
+  pos base [\dotlessi ] <anchor 366 1005> mark @top;
+  pos base [\dotlessj ] <anchor 650 1006> mark @top;
+  pos base [\e ] <anchor 919 1010> mark @top
+	<anchor 1079 0> mark @bot;
+  pos base [\g ] <anchor 696 1024> mark @top;
+  pos base [\h ] <anchor 1046 997> mark @top;
+  pos base [\i ] <anchor 368 0> mark @bot;
+  pos base [\k ] <anchor 848 1010> mark @top
+	<anchor 856 -3> mark @bot;
+  pos base [\m ] <anchor 1537 1022> mark @top;
+  pos base [\n ] <anchor 1046 1010> mark @top;
+  pos base [\o ] <anchor 934 1010> mark @top
+	<anchor 925 0> mark @bot;
+  pos base [\r ] <anchor 669 1010> mark @top;
+  pos base [\s ] <anchor 855 0> mark @bot
+	<anchor 835 1010> mark @top;
+  pos base [\t ] <anchor 676 1431> mark @top;
+  pos base [\u ] <anchor 907 997> mark @top
+	<anchor 1579 3> mark @bot;
+  pos base [\w ] <anchor 1315 1004> mark @top;
+  pos base [\y ] <anchor 908 1010> mark @top;
+  pos base [\z ] <anchor 814 1006> mark @top;
+} diacritics;
+
+feature mark {
+  script DFLT;
+     language dflt ;
+      lookup diacritics;
+  script grek;
+     language dflt ;
+      lookup diacritics;
+  script latn;
+     language dflt ;
+      lookup diacritics;
+
+} mark;

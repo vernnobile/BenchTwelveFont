@@ -1,0 +1,65 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="34.0" />
+<data name="previewtext" value="mon" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525328" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="BenchTwelve-Regular-FF.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="-1" />
+</location>
+<!-- color for BenchTwelve-Regular-FF.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="BenchTwelve Medium-black.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1" />
+</location>
+<!-- color for BenchTwelve Medium-black.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="BenchTwelve Medium-bold.ufo">
+<location>
+</location>
+<!-- color for BenchTwelve Medium-bold.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="BenchTwelve Medium" sequence="" stylename="regular">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-1.0500" />
+</location>
+</instance>
+<instance familyname="BenchTwelve Medium" sequence="" stylename="medium">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-0.7300" yvalue="-0.6000" />
+</location>
+</instance>
+<instance familyname="BenchTwelve Medium" sequence="" stylename="bold">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-0.4500" yvalue="-0.4000" />
+</location>
+</instance>
+<instance familyname="BenchTwelve Medium" sequence="" stylename="black">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.7000" />
+</location>
+</instance>
+</designspace>

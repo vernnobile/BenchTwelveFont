@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Deko RACE BIKE Ghia Boxer" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Bench12-Cond-Light.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+<!-- color for Bench12-Cond-Light.ufo -->
+<color a="1.000000" b="0.000000" g="0.000000" r="1.000000" />
+</master>
+<master filename="Bench12-Cond-Black.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1" />
+</location>
+<!-- color for Bench12-Cond-Black.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx0_09">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.0882" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx0_57">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.5669" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="--0_xx1_13">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="1.1295" />
+</location>
+</instance>
+</designspace>
