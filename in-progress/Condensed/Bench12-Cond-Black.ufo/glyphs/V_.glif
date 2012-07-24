@@ -13,13 +13,13 @@
       <point x="829.51371758" y="1401"/>
       <point x="822.51371758" y="1438"/>
       <point x="810.51371758" y="1438" type="curve" smooth="yes"/>
-      <point x="631.51371758" y="1438" type="line" smooth="yes"/>
-      <point x="614.51371758" y="1438"/>
-      <point x="598.51371758" y="1411"/>
-      <point x="591.51371758" y="1371" type="curve" smooth="yes"/>
-      <point x="451.51371758" y="613" type="line"/>
+      <point x="642" y="1438" type="line" smooth="yes"/>
+      <point x="625" y="1438"/>
+      <point x="609" y="1411"/>
+      <point x="602" y="1371" type="curve" smooth="yes"/>
+      <point x="462" y="573" type="line"/>
       <point x="311.51371758" y="1371" type="line" smooth="yes"/>
-      <point x="304.51371758" y="1411"/>
+      <point x="304" y="1411"/>
       <point x="289.51371758" y="1438"/>
       <point x="272.51371758" y="1438" type="curve" smooth="yes"/>
       <point x="65.5137175798" y="1438" type="line" smooth="yes"/>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>875.14610164004966</real>
+          <real>875.14610164</real>
         </dict>
       </dict>
     </dict>

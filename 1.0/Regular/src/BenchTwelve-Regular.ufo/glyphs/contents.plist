@@ -194,8 +194,8 @@
 	<string>T_bar.glif</string>
 	<key>Tcaron</key>
 	<string>T_caron.glif</string>
-	<key>Tcommaaccent</key>
-	<string>T_commaaccent.glif</string>
+	<key>uni021A</key>
+	<string>uni021A_.glif</string>
 	<key>Thorn</key>
 	<string>T_horn.glif</string>
 	<key>U</key>
@@ -352,8 +352,8 @@
 	<string>dotaccent.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
-	<key>dotlessj</key>
-	<string>dotlessj.glif</string>
+	<key>uni0237</key>
+	<string>uni0237.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -604,8 +604,8 @@
 	<string>t.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
-	<key>tcommaaccent</key>
-	<string>tcommaaccent.glif</string>
+	<key>uni021B</key>
+	<string>uni021B_.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
