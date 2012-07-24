@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="867"/>
+  <advance width="862"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="425" y="60" type="curve" smooth="yes"/>
       <point x="190" y="60" type="line" smooth="yes"/>
       <point x="183" y="60"/>
       <point x="180" y="64"/>
@@ -19,6 +18,7 @@
       <point x="697" y="721" type="curve" smooth="yes"/>
       <point x="697" y="202"/>
       <point x="648" y="60"/>
+      <point x="425" y="60" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="125" y="0" type="curve" smooth="yes"/>
@@ -65,7 +65,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>867</integer>
+          <integer>862</integer>
         </dict>
       </dict>
     </dict>
