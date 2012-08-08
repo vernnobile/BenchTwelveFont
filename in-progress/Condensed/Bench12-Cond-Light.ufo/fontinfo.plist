@@ -5,7 +5,7 @@
 	<key>ascender</key>
 	<integer>1536</integer>
 	<key>capHeight</key>
-	<integer>1455</integer>
+	<integer>1438</integer>
 	<key>copyright</key>
 	<string>(c) 2012 Vernon Adams</string>
 	<key>descender</key>
@@ -69,7 +69,7 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<real>5583</real>
+	<real>5583.0</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>3002</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
@@ -92,41 +92,29 @@
 	<integer>8589</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>0</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625000208616257</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-41</integer>
-		<integer>0</integer>
-		<integer>1006</integer>
-		<integer>1053</integer>
-		<integer>1455</integer>
-		<integer>1475</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptFontName</key>
 	<string>BenchTwelve-Regular</string>
+	<key>postscriptForceBold</key>
+	<false/>
 	<key>postscriptFullName</key>
 	<string>BenchTwelve Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-492</integer>
-		<integer>-427</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>160</integer>
-		<integer>60</integer>
-		<integer>176</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>71</integer>
-		<integer>49</integer>
-		<integer>56</integer>
 	</array>
 	<key>postscriptWeightName</key>
 	<string>Regular</string>

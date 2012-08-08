@@ -1,37 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="283"/>
+  <advance width="289"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="125" y="0" type="curve" smooth="yes"/>
-      <point x="158" y="0" type="line" smooth="yes"/>
-      <point x="173" y="0"/>
-      <point x="181" y="4"/>
-      <point x="181" y="47" type="curve" smooth="yes"/>
-      <point x="181" y="1391" type="line" smooth="yes"/>
-      <point x="181" y="1434"/>
-      <point x="173" y="1438"/>
-      <point x="158" y="1438" type="curve" smooth="yes"/>
-      <point x="125" y="1438" type="line" smooth="yes"/>
-      <point x="111" y="1438"/>
-      <point x="103" y="1434"/>
-      <point x="103" y="1391" type="curve" smooth="yes"/>
-      <point x="103" y="47" type="line" smooth="yes"/>
-      <point x="103" y="4"/>
-      <point x="111" y="0"/>
+      <point x="131" y="0" type="curve" smooth="yes"/>
+      <point x="164" y="0" type="line" smooth="yes"/>
+      <point x="179" y="0"/>
+      <point x="187" y="4"/>
+      <point x="187" y="47" type="curve" smooth="yes"/>
+      <point x="187" y="1391" type="line" smooth="yes"/>
+      <point x="187" y="1434"/>
+      <point x="179" y="1438"/>
+      <point x="164" y="1438" type="curve" smooth="yes"/>
+      <point x="131" y="1438" type="line" smooth="yes"/>
+      <point x="117" y="1438"/>
+      <point x="109" y="1434"/>
+      <point x="109" y="1391" type="curve" smooth="yes"/>
+      <point x="109" y="47" type="line" smooth="yes"/>
+      <point x="109" y="4"/>
+      <point x="117" y="0"/>
     </contour>
     <contour>
-      <point x="142" y="1455" type="move" name="top"/>
+      <point x="148" y="1455" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="255" y="10" type="move" name="ogonek"/>
+      <point x="261" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>289</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

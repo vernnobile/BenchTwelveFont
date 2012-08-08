@@ -1,51 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="854"/>
+  <advance width="857.182"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="127" y="0" type="curve" smooth="yes"/>
-      <point x="154" y="0" type="line" smooth="yes"/>
-      <point x="169.73" y="0"/>
-      <point x="179.843" y="14"/>
-      <point x="179.843" y="57" type="curve" smooth="yes"/>
-      <point x="179.843" y="1173" type="line"/>
-      <point x="184.337" y="1182" type="line"/>
-      <point x="691.081" y="19" type="line"/>
-      <point x="695.575" y="6"/>
-      <point x="701.193" y="0"/>
-      <point x="710.182" y="0" type="curve" smooth="yes"/>
-      <point x="729.182" y="0" type="line" smooth="yes"/>
-      <point x="744.182" y="0"/>
-      <point x="752.182" y="4"/>
-      <point x="752.182" y="47" type="curve" smooth="yes"/>
-      <point x="752.182" y="1391" type="line" smooth="yes"/>
-      <point x="752.182" y="1434"/>
-      <point x="744.182" y="1438"/>
-      <point x="729.182" y="1438" type="curve" smooth="yes"/>
-      <point x="700.07" y="1438" type="line" smooth="yes"/>
-      <point x="683.216" y="1438"/>
-      <point x="674.227" y="1434"/>
-      <point x="674.227" y="1391" type="curve" smooth="yes"/>
-      <point x="674.227" y="255" type="line"/>
-      <point x="669.732" y="242" type="line"/>
-      <point x="162.989" y="1420" type="line" smooth="yes"/>
-      <point x="157.371" y="1432"/>
-      <point x="152" y="1438"/>
-      <point x="144" y="1438" type="curve" smooth="yes"/>
-      <point x="127" y="1438" type="line" smooth="yes"/>
-      <point x="111" y="1438"/>
-      <point x="103" y="1434"/>
-      <point x="103" y="1391" type="curve" smooth="yes"/>
-      <point x="103" y="57" type="line" smooth="yes"/>
-      <point x="103" y="14"/>
-      <point x="111" y="0"/>
+      <point x="128" y="0" type="curve" smooth="yes"/>
+      <point x="152" y="0" type="line" smooth="yes"/>
+      <point x="168" y="0"/>
+      <point x="178" y="14"/>
+      <point x="178" y="57" type="curve" smooth="yes"/>
+      <point x="178" y="1190" type="line"/>
+      <point x="182" y="1199" type="line"/>
+      <point x="679" y="44" type="line"/>
+      <point x="684" y="31"/>
+      <point x="702.193" y="0"/>
+      <point x="711.182" y="0" type="curve" smooth="yes"/>
+      <point x="730.182" y="0" type="line" smooth="yes"/>
+      <point x="745.182" y="0"/>
+      <point x="753.182" y="4"/>
+      <point x="753.182" y="47" type="curve" smooth="yes"/>
+      <point x="753.182" y="1391" type="line" smooth="yes"/>
+      <point x="753.182" y="1434"/>
+      <point x="745.182" y="1438"/>
+      <point x="730.182" y="1438" type="curve" smooth="yes"/>
+      <point x="704" y="1438" type="line" smooth="yes"/>
+      <point x="687" y="1438"/>
+      <point x="678" y="1434"/>
+      <point x="678" y="1391" type="curve" smooth="yes"/>
+      <point x="678" y="222" type="line"/>
+      <point x="674" y="209" type="line"/>
+      <point x="163.989" y="1420" type="line" smooth="yes"/>
+      <point x="158.371" y="1432"/>
+      <point x="153" y="1438"/>
+      <point x="145" y="1438" type="curve" smooth="yes"/>
+      <point x="128" y="1438" type="line" smooth="yes"/>
+      <point x="112" y="1438"/>
+      <point x="104" y="1434"/>
+      <point x="104" y="1391" type="curve" smooth="yes"/>
+      <point x="104" y="57" type="line" smooth="yes"/>
+      <point x="104" y="14"/>
+      <point x="112" y="0"/>
     </contour>
     <contour>
-      <point x="427" y="1455" type="move" name="top"/>
+      <point x="428" y="1455" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="427" y="0" type="move" name="bottom"/>
+      <point x="428" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>857.182</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

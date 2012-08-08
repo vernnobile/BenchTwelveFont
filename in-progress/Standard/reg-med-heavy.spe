@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="34.0" />
-<data name="previewtext" value="mon" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="noemon" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525328" />
+<data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
 <axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
 
@@ -32,34 +32,11 @@
 </master>
 <master filename="BenchTwelve Medium-bold.ufo">
 <location>
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for BenchTwelve Medium-bold.ufo -->
 <color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="BenchTwelve Medium" sequence="" stylename="regular">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-1.0500" />
-</location>
-</instance>
-<instance familyname="BenchTwelve Medium" sequence="" stylename="medium">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-0.7300" yvalue="-0.6000" />
-</location>
-</instance>
-<instance familyname="BenchTwelve Medium" sequence="" stylename="bold">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-0.4500" yvalue="-0.4000" />
-</location>
-</instance>
-<instance familyname="BenchTwelve Medium" sequence="" stylename="black">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="0.7000" />
-</location>
-</instance>
 </designspace>

@@ -92,20 +92,8 @@
 	<integer>0</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>0</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-41</integer>
-		<integer>0</integer>
-		<integer>1006</integer>
-		<integer>1053</integer>
-		<integer>1438</integer>
-		<integer>1475</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
@@ -125,24 +113,14 @@
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-299</integer>
-		<integer>-299</integer>
 	</array>
 	<key>postscriptSlantAngle</key>
 	<real>-0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>383</integer>
-		<integer>180</integer>
-		<integer>293</integer>
-		<integer>350</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>303</integer>
-		<integer>374</integer>
-		<integer>395</integer>
-		<integer>429</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-205</integer>
