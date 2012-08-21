@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="1428"/>
+  <advance width="846"/>
   <unicode hex="00D8"/>
   <outline>
     <component base="O"/>
-    <component base="fraction" xScale="0.84" xOffset="927"/>
+    <component base="fraction" xScale="0.84" xOffset="222" yOffset="4"/>
     <contour>
       <point x="397" y="1455" type="move" name="top"/>
     </contour>
@@ -33,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1428</integer>
+          <integer>846</integer>
         </dict>
       </dict>
     </dict>
