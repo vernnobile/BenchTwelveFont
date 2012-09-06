@@ -327,7 +327,6 @@
 				<string>circumflex</string>
 				<string>caron</string>
 				<string>uni0307</string>
-				<string>uni030F</string>
 				<string>uni0311</string>
 				<string>uni0326</string>
 				<string>zero</string>
@@ -432,6 +431,7 @@
 				<string>uniFB03</string>
 				<string>uniFB04</string>
 				<string>Dcroat</string>
+				<string>dblgravecmb</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1434,7 +1434,6 @@
 		<string>circumflex</string>
 		<string>caron</string>
 		<string>uni0307</string>
-		<string>uni030F</string>
 		<string>uni0311</string>
 		<string>uni0326</string>
 		<string>zero</string>
@@ -1539,6 +1538,7 @@
 		<string>uniFB03</string>
 		<string>uniFB04</string>
 		<string>Dcroat</string>
+		<string>dblgravecmb</string>
 	</array>
 </dict>
 </plist>

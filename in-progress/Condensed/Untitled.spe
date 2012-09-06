@@ -3,36 +3,31 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<<<<<<< HEAD
-<version format="110221_1144_developer_" superpolator="1" />
-=======
 <version format="120823_1018_beta_" superpolator="1" />
->>>>>>> peel-fork added
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="90.0" />
-<data name="previewtext" value="manchen Bolkino Telecom Factory Dusseldorf" />
+<data name="previewTypeSize" value="Auto" />
+<data name="previewtext" value="nakon&amp;" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525327" />
+<data name="projectionAngle" value="0.392699081699" />
 <!-- axis definitions -->
-<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
 <master filename="Bench12-Cond-Light.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for Bench12-Cond-Light.ufo -->
-<color a="1.000000" b="0.000000" g="0.000000" r="1.000000" />
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
 </master>
 <master filename="Bench12-Cond-Black.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="1" />
+<dimension name="new_axis_1" xvalue="1000" />
 </location>
 <!-- color for Bench12-Cond-Black.ufo -->
-<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
 </master>
 
 <!-- instance definitions -->

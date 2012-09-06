@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="1399"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="434" y="818" type="curve" smooth="yes"/>
+      <point x="630" y="822"/>
+      <point x="860" y="996"/>
+      <point x="1003" y="1003" type="curve" smooth="yes"/>
+      <point x="1067" y="1006"/>
+      <point x="1100" y="933"/>
+      <point x="1145" y="859" type="curve" smooth="yes"/>
+      <point x="1154" y="844"/>
+      <point x="1166" y="828"/>
+      <point x="1186" y="831" type="curve" smooth="yes"/>
+      <point x="1199" y="833"/>
+      <point x="1198" y="833"/>
+      <point x="1207" y="839" type="curve" smooth="yes"/>
+      <point x="1225" y="851"/>
+      <point x="1223" y="859"/>
+      <point x="1223" y="875" type="curve" smooth="yes"/>
+      <point x="1223" y="883"/>
+      <point x="1221" y="892"/>
+      <point x="1216" y="902" type="curve" smooth="yes"/>
+      <point x="1160" y="1018"/>
+      <point x="1118" y="1086"/>
+      <point x="988" y="1081" type="curve" smooth="yes"/>
+      <point x="813" y="1074"/>
+      <point x="601" y="897"/>
+      <point x="448" y="896" type="curve" smooth="yes"/>
+      <point x="355" y="895"/>
+      <point x="304" y="936"/>
+      <point x="262" y="1057" type="curve" smooth="yes"/>
+      <point x="259" y="1065"/>
+      <point x="256" y="1084"/>
+      <point x="232" y="1084" type="curve" smooth="yes"/>
+      <point x="225" y="1084"/>
+      <point x="216" y="1082"/>
+      <point x="206" y="1077" type="curve" smooth="yes"/>
+      <point x="196" y="1073" type="line" smooth="yes"/>
+      <point x="173" y="1062"/>
+      <point x="180" y="1053"/>
+      <point x="180" y="1040" type="curve" smooth="yes"/>
+      <point x="180" y="1032"/>
+      <point x="181" y="1025"/>
+      <point x="185" y="1015" type="curve" smooth="yes"/>
+      <point x="214" y="937"/>
+      <point x="270" y="815"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1399</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
