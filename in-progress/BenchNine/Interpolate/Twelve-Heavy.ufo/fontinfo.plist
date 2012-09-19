@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1475</integer>
+	<key>capHeight</key>
+	<integer>1438</integer>
+	<key>descender</key>
+	<integer>-299</integer>
+	<key>familyName</key>
+	<string>Twelve1 Heavy</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>macintoshFONDName</key>
+	<string>Twelve1</string>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/09/14 13:40:54</string>
+	<key>openTypeHheaAscender</key>
+	<integer>3146</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-1049</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Twelve1 Heavy</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Twelve1</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Heavy</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>1049</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>209</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>2937</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>588</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>2726</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<real>2937</real>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>2001</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>2726</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>pyrs</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>600</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Twelve-Heavy</string>
+	<key>postscriptFullName</key>
+	<string>Twelve1 Heavy</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptWeightName</key>
+	<string>DemiBold</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Heavy</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>1006</integer>
+</dict>
+</plist>

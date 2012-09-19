@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="120823_1018_beta_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="STOMPHESION Delphinium Molatov Beachbum CHINA Tokyo Méloux Chaleause" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.73964081777" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="BenchTwelve-Regular.ufo">
+<location>
+</location>
+<!-- color for BenchTwelve-Regular.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Twelve-Heavy.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for Twelve-Heavy.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="BenchTwelve" sequence="" stylename="Heavy">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="950" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="Bold">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="650" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="Regular">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="450" />
+</location>
+</instance>
+<instance familyname="BenchTwelve" sequence="" stylename="Light">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="200" />
+</location>
+</instance>
+</designspace>

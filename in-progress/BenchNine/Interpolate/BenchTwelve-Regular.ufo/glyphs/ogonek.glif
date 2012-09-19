@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="716"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="479" y="-318" type="curve" smooth="yes"/>
+      <point x="492" y="-318"/>
+      <point x="495" y="-311"/>
+      <point x="495" y="-301" type="curve" smooth="yes"/>
+      <point x="495" y="-260" type="line" smooth="yes"/>
+      <point x="495" y="-249"/>
+      <point x="479" y="-250"/>
+      <point x="479" y="-250" type="curve"/>
+      <point x="376.049" y="-250"/>
+      <point x="331.226" y="-200.573"/>
+      <point x="331.226" y="-144.229" type="curve" smooth="yes"/>
+      <point x="331.226" y="-93.9096"/>
+      <point x="366.976" y="-38.0735"/>
+      <point x="429" y="-7" type="curve"/>
+      <point x="429" y="16" type="line"/>
+      <point x="312.583" y="-13.4992"/>
+      <point x="250.811" y="-91.4023"/>
+      <point x="250.811" y="-164.555" type="curve" smooth="yes"/>
+      <point x="250.811" y="-239.423754426"/>
+      <point x="315.513580148" y="-309.316409858"/>
+      <point x="452.559858954" y="-317.252030139" type="curve" smooth="yes"/>
+      <point x="461.092208202" y="-317.746093052"/>
+      <point x="469.904973884" y="-318.0"/>
+    </contour>
+    <contour>
+      <point x="495" y="10" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+</glyph>
