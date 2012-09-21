@@ -422,8 +422,6 @@
         <string>uniFB03</string>
         <string>uniFB04</string>
       </array>
-    <key>com.typemytype.robofont.compileSettings.decompose</key>
-      <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.path</key>
       <string>/Users/vern/GitHub/BenchTwelveFont/FINAL-POLATORS/SP_Instances/BenchTwelve Medium-regular.otf</string>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -840,6 +838,8 @@
         <string>ring</string>
         <string>tilde</string>
       </array>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+      <integer>1</integer>
     <key>com.typemytype.robofont.sort</key>
       <array>
       <key>allowPseudoUnicode</key>

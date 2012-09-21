@@ -8,6 +8,8 @@
 	<string>Black</string>
 	<key>copyright</key>
 	<string>vernon adams (c) 2012</string>
+	<key>trademark</key>
+	<string>BenchTwelve is a trademark of vernon adams.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
@@ -26,10 +28,24 @@
 	<string>2012/06/16 10:59:52</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1</string>
+	<key>openTypeNameUniqueID</key>
+	<string>BenchTwelve Black</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2012 by vernon adams. All rights reserved.</string>
+	<key>openTypeNamePreferedFamilyName</key>
+	<string>BenchTwelve</string>
+	<key>openTypeNamePreferedSubfamilyName</key>
+	<string>Black</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>6</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -42,15 +58,15 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>3715</integer>
+	<integer>3658</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-340</integer>
+	<integer>-310</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2077</integer>
+	<integer>2020</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>750</integer>
+	<integer>720</integer>
 	<key>postscriptFontName</key>
 	<string>BenchTwelve-Black</string>
 	<key>postscriptFullName</key>
