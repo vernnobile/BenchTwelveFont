@@ -58,9 +58,9 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>3658</integer>
+	<integer>2020</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-310</integer>
+	<integer>-720</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>

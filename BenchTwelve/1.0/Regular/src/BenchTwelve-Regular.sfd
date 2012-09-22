@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1342305810
-ModificationTime: 1348247011
+ModificationTime: 1348273896
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 6
@@ -42,7 +42,6 @@ HheadDescent: -720
 HheadDOffset: 0
 OS2Vendor: 'newt'
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "diacritics"  {"diacritics subtable"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1"  {"'kern' Horizontal Kerning lookup 1 per glyph data 0"  "'kern' Horizontal Kerning lookup 1 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -116,902 +115,1613 @@ sS'public.glyphOrder'
 p4
 (S'A'
 S'Agrave'
+p5
 S'Aacute'
+p6
 S'Acircumflex'
+p7
 S'Atilde'
+p8
 S'Adieresis'
+p9
 S'Aring'
+p10
 S'Amacron'
+p11
 S'Abreve'
+p12
 S'Aogonek'
+p13
 S'uni0200'
+p14
 S'uni0202'
+p15
 S'B'
 S'uni1E02'
+p16
 S'C'
 S'Ccedilla'
+p17
 S'Cacute'
+p18
 S'Ccircumflex'
+p19
 S'Cdotaccent'
+p20
 S'Ccaron'
+p21
 S'D'
 S'Dcaron'
+p22
 S'uni1E0A'
+p23
 S'E'
 S'Egrave'
+p24
 S'Eacute'
+p25
 S'Ecircumflex'
+p26
 S'Edieresis'
+p27
 S'Emacron'
+p28
 S'Ebreve'
+p29
 S'Edotaccent'
+p30
 S'Eogonek'
+p31
 S'Ecaron'
+p32
 S'uni0204'
+p33
 S'uni0206'
+p34
 S'F'
 S'uni1E1E'
+p35
 S'G'
 S'Gcircumflex'
+p36
 S'Gbreve'
+p37
 S'Gdotaccent'
+p38
 S'Gcommaaccent'
+p39
 S'uni01F4'
+p40
 S'H'
 S'Hcircumflex'
+p41
 S'I'
 S'Igrave'
+p42
 S'Iacute'
+p43
 S'Icircumflex'
+p44
 S'Idieresis'
+p45
 S'Itilde'
+p46
 S'Imacron'
+p47
 S'Ibreve'
+p48
 S'Iogonek'
+p49
 S'Idotaccent'
+p50
 S'uni0208'
+p51
 S'uni020A'
+p52
 S'J'
 S'Jcircumflex'
+p53
 S'K'
 S'Kcommaaccent'
+p54
 S'L'
 S'Lacute'
+p55
 S'Lcommaaccent'
+p56
 S'Lcaron'
+p57
 S'M'
 S'uni1E40'
+p58
 S'N'
 S'Ntilde'
+p59
 S'Nacute'
+p60
 S'Ncommaaccent'
+p61
 S'Ncaron'
+p62
 S'O'
 S'Ograve'
+p63
 S'Oacute'
+p64
 S'Ocircumflex'
+p65
 S'Otilde'
+p66
 S'Odieresis'
+p67
 S'Omacron'
+p68
 S'Obreve'
+p69
 S'Ohungarumlaut'
+p70
 S'uni020C'
+p71
 S'uni020E'
+p72
 S'P'
 S'uni1E56'
+p73
 S'Q'
 S'R'
 S'Racute'
+p74
 S'Rcommaaccent'
+p75
 S'Rcaron'
+p76
 S'uni0210'
+p77
 S'uni0212'
+p78
 S'S'
 S'Sacute'
+p79
 S'Scircumflex'
+p80
 S'Scedilla'
+p81
 S'Scaron'
+p82
 S'Scommaaccent'
+p83
 S'uni1E60'
+p84
 S'T'
 S'Tcaron'
+p85
 S'Tcommaaccent'
+p86
 S'uni021A'
+p87
 S'uni1E6A'
+p88
 S'U'
 S'Ugrave'
+p89
 S'Uacute'
+p90
 S'Ucircumflex'
+p91
 S'Udieresis'
+p92
 S'Utilde'
+p93
 S'Umacron'
+p94
 S'Ubreve'
+p95
 S'Uring'
+p96
 S'Uhungarumlaut'
+p97
 S'Uogonek'
+p98
 S'uni0214'
+p99
 S'uni0216'
+p100
 S'V'
 S'W'
 S'Wcircumflex'
+p101
 S'Wgrave'
+p102
 S'Wacute'
+p103
 S'Wdieresis'
+p104
 S'X'
 S'Y'
 S'Yacute'
+p105
 S'Ycircumflex'
+p106
 S'Ydieresis'
+p107
 S'Ygrave'
+p108
 S'Z'
 S'Zacute'
+p109
 S'Zdotaccent'
+p110
 S'Zcaron'
+p111
 S'AE'
+p112
 S'Eth'
+p113
 S'Oslash'
+p114
 S'Thorn'
+p115
 S'Dcroat'
+p116
 S'Hbar'
+p117
 S'IJ'
+p118
 S'Ldot'
+p119
 S'Lslash'
+p120
 S'Eng'
+p121
 S'OE'
+p122
 S'Tbar'
+p123
 S'uni01C4'
+p124
 S'uni01C7'
+p125
 S'uni01CA'
+p126
 S'uni01F1'
+p127
 S'a'
 S'agrave'
+p128
 S'aacute'
+p129
 S'acircumflex'
+p130
 S'atilde'
+p131
 S'adieresis'
+p132
 S'aring'
+p133
 S'amacron'
+p134
 S'abreve'
+p135
 S'aogonek'
+p136
 S'uni0201'
+p137
 S'uni0203'
+p138
 S'b'
 S'uni1E03'
+p139
 S'c'
 S'ccedilla'
+p140
 S'cacute'
+p141
 S'ccircumflex'
+p142
 S'cdotaccent'
+p143
 S'ccaron'
+p144
 S'd'
 S'dcaron'
+p145
 S'uni1E0B'
+p146
 S'e'
 S'egrave'
+p147
 S'eacute'
+p148
 S'ecircumflex'
+p149
 S'edieresis'
+p150
 S'emacron'
+p151
 S'ebreve'
+p152
 S'edotaccent'
+p153
 S'eogonek'
+p154
 S'ecaron'
+p155
 S'uni0205'
+p156
 S'uni0207'
+p157
 S'f'
 S'uni1E1F'
+p158
 S'g'
 S'gcircumflex'
+p159
 S'gbreve'
+p160
 S'gdotaccent'
+p161
 S'gcommaaccent'
+p162
 S'uni01F5'
+p163
 S'h'
 S'hcircumflex'
+p164
 S'i'
 S'igrave'
+p165
 S'iacute'
+p166
 S'icircumflex'
+p167
 S'idieresis'
+p168
 S'itilde'
+p169
 S'imacron'
+p170
 S'ibreve'
+p171
 S'iogonek'
+p172
 S'uni0209'
+p173
 S'uni020B'
+p174
 S'j'
 S'jcircumflex'
+p175
 S'k'
 S'kcommaaccent'
+p176
 S'l'
 S'lacute'
+p177
 S'lcommaaccent'
+p178
 S'lcaron'
+p179
 S'm'
 S'uni1E41'
+p180
 S'n'
 S'ntilde'
+p181
 S'nacute'
+p182
 S'ncommaaccent'
+p183
 S'ncaron'
+p184
 S'o'
 S'ograve'
+p185
 S'oacute'
+p186
 S'ocircumflex'
+p187
 S'otilde'
+p188
 S'odieresis'
+p189
 S'omacron'
+p190
 S'obreve'
+p191
 S'ohungarumlaut'
+p192
 S'uni020D'
+p193
 S'uni020F'
+p194
 S'p'
 S'uni1E57'
+p195
 S'q'
 S'r'
 S'racute'
+p196
 S'rcommaaccent'
+p197
 S'rcaron'
+p198
 S'uni0211'
+p199
 S'uni0213'
+p200
 S's'
 S'sacute'
+p201
 S'scircumflex'
+p202
 S'scedilla'
+p203
 S'scaron'
+p204
 S'scommaaccent'
+p205
 S'uni1E61'
+p206
 S't'
 S'tcaron'
+p207
 S'tcommaaccent'
+p208
 S'uni021B'
+p209
 S'uni1E6B'
+p210
 S'u'
 S'ugrave'
+p211
 S'uacute'
+p212
 S'ucircumflex'
+p213
 S'udieresis'
+p214
 S'utilde'
+p215
 S'umacron'
+p216
 S'ubreve'
+p217
 S'uring'
+p218
 S'uhungarumlaut'
+p219
 S'uogonek'
+p220
 S'uni0215'
+p221
 S'uni0217'
+p222
 S'v'
 S'w'
 S'wcircumflex'
+p223
 S'wgrave'
+p224
 S'wacute'
+p225
 S'wdieresis'
+p226
 S'x'
 S'y'
 S'yacute'
+p227
 S'ydieresis'
+p228
 S'ycircumflex'
+p229
 S'ygrave'
+p230
 S'z'
 S'zacute'
+p231
 S'zdotaccent'
+p232
 S'zcaron'
+p233
 S'ordfeminine'
+p234
 S'ordmasculine'
+p235
 S'germandbls'
+p236
 S'ae'
+p237
 S'eth'
+p238
 S'oslash'
+p239
 S'thorn'
+p240
 S'dcroat'
+p241
 S'hbar'
+p242
 S'dotlessi'
+p243
 S'ij'
+p244
 S'kgreenlandic'
+p245
 S'ldot'
+p246
 S'napostrophe'
+p247
 S'oe'
+p248
 S'florin'
+p249
 S'uni01C6'
+p250
 S'uni01C9'
+p251
 S'uni01CC'
+p252
 S'uni01F3'
+p253
 S'dotlessj'
+p254
 S'uniFB01'
+p255
 S'uniFB02'
+p256
 S'mu'
+p257
 S'uni01C5'
+p258
 S'uni01C8'
+p259
 S'uni01CB'
+p260
 S'uni01F2'
+p261
 S'circumflex'
+p262
 S'caron'
+p263
 S'uni0307'
+p264
 S'uni030F'
+p265
 S'uni0311'
+p266
 S'uni0326'
+p267
 S'zero'
+p268
 S'one'
+p269
 S'two'
+p270
 S'three'
+p271
 S'four'
+p272
 S'five'
+p273
 S'six'
+p274
 S'seven'
+p275
 S'eight'
+p276
 S'nine'
+p277
 S'onequarter'
+p278
 S'onehalf'
+p279
 S'threequarters'
+p280
 S'underscore'
+p281
 S'hyphen'
+p282
 S'parenleft'
+p283
 S'bracketleft'
+p284
 S'braceleft'
+p285
 S'parenright'
+p286
 S'bracketright'
+p287
 S'braceright'
+p288
 S'guillemotleft'
+p289
 S'quoteleft'
+p290
 S'quotedblleft'
+p291
 S'guilsinglleft'
+p292
 S'guillemotright'
+p293
 S'quoteright'
+p294
 S'quotedblright'
+p295
 S'guilsinglright'
+p296
 S'exclam'
+p297
 S'quotedbl'
+p298
 S'numbersign'
+p299
 S'percent'
+p300
 S'ampersand'
+p301
 S'asterisk'
+p302
 S'comma'
+p303
 S'period'
+p304
 S'slash'
+p305
 S'colon'
+p306
 S'semicolon'
+p307
 S'question'
+p308
 S'at'
+p309
 S'backslash'
+p310
 S'exclamdown'
+p311
 S'periodcentered'
+p312
 S'questiondown'
+p313
 S'dagger'
+p314
 S'daggerdbl'
+p315
 S'ellipsis'
+p316
 S'perthousand'
+p317
 S'plus'
+p318
 S'less'
+p319
 S'equal'
+p320
 S'greater'
+p321
 S'bar'
+p322
 S'asciitilde'
+p323
 S'logicalnot'
+p324
 S'plusminus'
+p325
 S'multiply'
+p326
 S'divide'
+p327
 S'fraction'
+p328
 S'minus'
+p329
 S'notequal'
+p330
 S'lessequal'
+p331
 S'greaterequal'
+p332
 S'dollar'
+p333
 S'cent'
+p334
 S'sterling'
+p335
 S'currency'
+p336
 S'yen'
+p337
 S'Euro'
+p338
 S'asciicircum'
+p339
 S'grave'
+p340
 S'dieresis'
+p341
 S'macron'
+p342
 S'acute'
+p343
 S'cedilla'
+p344
 S'breve'
+p345
 S'dotaccent'
+p346
 S'ring'
+p347
 S'ogonek'
+p348
 S'tilde'
+p349
 S'hungarumlaut'
+p350
 S'brokenbar'
+p351
 S'section'
+p352
 S'copyright'
+p353
 S'registered'
+p354
 S'degree'
+p355
 S'paragraph'
+p356
 S'trademark'
+p357
 S'space'
+p358
 S'uni00AD'
+p359
 S'onesuperior'
+p360
 S'threesuperior'
+p361
 S'twosuperior'
+p362
 S'uniFB00'
+p363
 S'uniFB03'
+p364
 S'uniFB04'
-tp5
-sS'com.typemytype.robofont.compileSettings.path'
-p6
-S'/Users/vern/GitHub/BenchTwelveFont/FINAL-POLATORS/SP_Instances/BenchTwelve Medium-regular.otf'
-p7
-sS'com.typemytype.robofont.compileSettings.checkOutlines'
-p8
-I0
+p365
+tp366
+sS'com.typemytype.robofont.compileSettings.decompose'
+p367
+I1
 sS'com.typemytype.robofont.compileSettings.releaseMode'
-p9
+p368
 I0
+sS'com.typemytype.robofont.compileSettings.checkOutlines'
+p369
+I0
+sS'com.typemytype.robofont.compileSettings.path'
+p370
+S'/Users/vern/GitHub/BenchTwelveFont/FINAL-POLATORS/SP_Instances/BenchTwelve Medium-regular.otf'
+p371
 sS'com.typemytype.robofont.layerOrder'
-p10
+p372
 (tsS'com.typemytype.robofont.segmentType'
-p11
+p373
 S'curve'
-p12
+p374
 sS'org.robofab.glyphOrder'
-p13
+p375
 (S'A'
 S'Aacute'
+p376
 S'Abreve'
+p377
 S'Acircumflex'
+p378
 S'Adieresis'
+p379
 S'Agrave'
+p380
 S'Amacron'
+p381
 S'Aogonek'
+p382
 S'Aring'
+p383
 S'Atilde'
+p384
 S'AE'
+p385
 S'B'
 S'C'
 S'Cacute'
+p386
 S'Ccaron'
+p387
 S'Ccedilla'
+p388
 S'Ccircumflex'
+p389
 S'Cdotaccent'
+p390
 S'D'
 S'Eth'
+p391
 S'Dcaron'
+p392
 S'Dcroat'
+p393
 S'E'
 S'Eacute'
+p394
 S'Ebreve'
+p395
 S'Ecaron'
+p396
 S'Ecircumflex'
+p397
 S'Edieresis'
+p398
 S'Edotaccent'
+p399
 S'Egrave'
+p400
 S'Emacron'
+p401
 S'Eogonek'
+p402
 S'F'
 S'G'
 S'Gbreve'
+p403
 S'Gcircumflex'
+p404
 S'Gcommaaccent'
+p405
 S'Gdotaccent'
+p406
 S'H'
 S'Hbar'
+p407
 S'Hcircumflex'
+p408
 S'I'
 S'IJ'
+p409
 S'Iacute'
+p410
 S'Ibreve'
+p411
 S'Icircumflex'
+p412
 S'Idieresis'
+p413
 S'Idotaccent'
+p414
 S'Igrave'
+p415
 S'Imacron'
+p416
 S'Iogonek'
+p417
 S'Itilde'
+p418
 S'J'
 S'Jcircumflex'
+p419
 S'K'
 S'Kcommaaccent'
+p420
 S'L'
 S'Lacute'
+p421
 S'Lcaron'
+p422
 S'Lcommaaccent'
+p423
 S'Ldot'
+p424
 S'Lslash'
+p425
 S'M'
 S'N'
 S'Nacute'
+p426
 S'Ncaron'
+p427
 S'Ncommaaccent'
+p428
 S'Eng'
+p429
 S'Ntilde'
+p430
 S'O'
 S'Oacute'
+p431
 S'Obreve'
+p432
 S'Ocircumflex'
+p433
 S'Odieresis'
+p434
 S'Ograve'
+p435
 S'Ohungarumlaut'
+p436
 S'Omacron'
+p437
 S'Oslash'
+p438
 S'Otilde'
+p439
 S'OE'
+p440
 S'P'
 S'Thorn'
+p441
 S'Q'
 S'R'
 S'Racute'
+p442
 S'Rcaron'
+p443
 S'Rcommaaccent'
+p444
 S'S'
 S'Sacute'
+p445
 S'Scaron'
+p446
 S'Scedilla'
+p447
 S'Scircumflex'
+p448
 S'Scommaaccent'
+p449
 S'T'
 S'Tbar'
+p450
 S'Tcaron'
+p451
 S'Tcommaaccent'
+p452
 S'U'
 S'Uacute'
+p453
 S'Ubreve'
+p454
 S'Ucircumflex'
+p455
 S'Udieresis'
+p456
 S'Ugrave'
+p457
 S'Uhungarumlaut'
+p458
 S'Umacron'
+p459
 S'Uogonek'
+p460
 S'Uring'
+p461
 S'Utilde'
+p462
 S'V'
 S'W'
 S'Wacute'
+p463
 S'Wcircumflex'
+p464
 S'Wdieresis'
+p465
 S'Wgrave'
+p466
 S'X'
 S'Y'
 S'Yacute'
+p467
 S'Ycircumflex'
+p468
 S'Ydieresis'
+p469
 S'Ygrave'
+p470
 S'Z'
 S'Zacute'
+p471
 S'Zcaron'
+p472
 S'Zdotaccent'
+p473
 S'uni01C4'
+p474
 S'uni01C5'
+p475
 S'uni01C7'
+p476
 S'uni01C8'
+p477
 S'uni01CA'
+p478
 S'uni01CB'
+p479
 S'uni01F1'
+p480
 S'uni01F2'
+p481
 S'uni01F4'
+p482
 S'uni0200'
+p483
 S'uni0202'
+p484
 S'uni0204'
+p485
 S'uni0206'
+p486
 S'uni0208'
+p487
 S'uni020A'
+p488
 S'uni020C'
+p489
 S'uni020E'
+p490
 S'uni0210'
+p491
 S'uni0212'
+p492
 S'uni0214'
+p493
 S'uni0216'
+p494
 S'uni021A'
+p495
 S'uni1E02'
+p496
 S'uni1E0A'
+p497
 S'uni1E1E'
+p498
 S'uni1E40'
+p499
 S'uni1E56'
+p500
 S'uni1E60'
+p501
 S'uni1E6A'
+p502
 S'a'
 S'aacute'
+p503
 S'abreve'
+p504
 S'acircumflex'
+p505
 S'adieresis'
+p506
 S'agrave'
+p507
 S'amacron'
+p508
 S'aogonek'
+p509
 S'aring'
+p510
 S'atilde'
+p511
 S'ae'
+p512
 S'b'
 S'c'
 S'cacute'
+p513
 S'ccaron'
+p514
 S'ccedilla'
+p515
 S'ccircumflex'
+p516
 S'cdotaccent'
+p517
 S'd'
 S'eth'
+p518
 S'dcaron'
+p519
 S'dcroat'
+p520
 S'e'
 S'eacute'
+p521
 S'ebreve'
+p522
 S'ecaron'
+p523
 S'ecircumflex'
+p524
 S'edieresis'
+p525
 S'edotaccent'
+p526
 S'egrave'
+p527
 S'emacron'
+p528
 S'eogonek'
+p529
 S'f'
 S'g'
 S'gbreve'
+p530
 S'gcircumflex'
+p531
 S'gcommaaccent'
+p532
 S'gdotaccent'
+p533
 S'h'
 S'hbar'
+p534
 S'hcircumflex'
+p535
 S'i'
 S'dotlessi'
+p536
 S'iacute'
+p537
 S'ibreve'
+p538
 S'icircumflex'
+p539
 S'idieresis'
+p540
 S'igrave'
+p541
 S'ij'
+p542
 S'imacron'
+p543
 S'iogonek'
+p544
 S'itilde'
+p545
 S'j'
 S'dotlessj'
+p546
 S'jcircumflex'
+p547
 S'k'
 S'kcommaaccent'
+p548
 S'kgreenlandic'
+p549
 S'l'
 S'lacute'
+p550
 S'lcaron'
+p551
 S'lcommaaccent'
+p552
 S'ldot'
+p553
 S'm'
 S'n'
 S'nacute'
+p554
 S'napostrophe'
+p555
 S'ncaron'
+p556
 S'ncommaaccent'
+p557
 S'ntilde'
+p558
 S'o'
 S'oacute'
+p559
 S'obreve'
+p560
 S'ocircumflex'
+p561
 S'odieresis'
+p562
 S'ograve'
+p563
 S'ohungarumlaut'
+p564
 S'omacron'
+p565
 S'oslash'
+p566
 S'otilde'
+p567
 S'oe'
+p568
 S'p'
 S'thorn'
+p569
 S'q'
 S'r'
 S'racute'
+p570
 S'rcaron'
+p571
 S'rcommaaccent'
+p572
 S's'
 S'sacute'
+p573
 S'scaron'
+p574
 S'scedilla'
+p575
 S'scircumflex'
+p576
 S'scommaaccent'
+p577
 S'germandbls'
+p578
 S't'
 S'tcaron'
+p579
 S'tcommaaccent'
+p580
 S'u'
 S'uacute'
+p581
 S'ubreve'
+p582
 S'ucircumflex'
+p583
 S'udieresis'
+p584
 S'ugrave'
+p585
 S'uhungarumlaut'
+p586
 S'umacron'
+p587
 S'uni01C6'
+p588
 S'uni01C9'
+p589
 S'uni01CC'
+p590
 S'uni01F3'
+p591
 S'uni01F5'
+p592
 S'uni0201'
+p593
 S'uni0203'
+p594
 S'uni0205'
+p595
 S'uni0207'
+p596
 S'uni0209'
+p597
 S'uni020B'
+p598
 S'uni020D'
+p599
 S'uni020F'
+p600
 S'uni0211'
+p601
 S'uni0213'
+p602
 S'uni0215'
+p603
 S'uni0217'
+p604
 S'uni021B'
+p605
 S'uni1E03'
+p606
 S'uni1E0B'
+p607
 S'uni1E1F'
+p608
 S'uni1E41'
+p609
 S'uni1E57'
+p610
 S'uni1E61'
+p611
 S'uni1E6B'
+p612
 S'uogonek'
+p613
 S'uring'
+p614
 S'utilde'
+p615
 S'v'
 S'w'
 S'wacute'
+p616
 S'wcircumflex'
+p617
 S'wdieresis'
+p618
 S'wgrave'
+p619
 S'x'
 S'y'
 S'yacute'
+p620
 S'ycircumflex'
+p621
 S'ydieresis'
+p622
 S'ygrave'
+p623
 S'z'
 S'zacute'
+p624
 S'zcaron'
+p625
 S'zdotaccent'
+p626
 S'uniFB01'
+p627
 S'uniFB02'
+p628
 S'uniFB00'
+p629
 S'uniFB03'
+p630
 S'uniFB04'
+p631
 S'mu'
+p632
 S'zero'
+p633
 S'one'
+p634
 S'two'
+p635
 S'three'
+p636
 S'four'
+p637
 S'five'
+p638
 S'six'
+p639
 S'seven'
+p640
 S'eight'
+p641
 S'nine'
+p642
 S'fraction'
+p643
 S'ordfeminine'
+p644
 S'ordmasculine'
+p645
 S'asterisk'
+p646
 S'backslash'
+p647
 S'colon'
+p648
 S'comma'
+p649
 S'ellipsis'
+p650
 S'exclam'
+p651
 S'numbersign'
+p652
 S'period'
+p653
 S'periodcentered'
+p654
 S'question'
+p655
 S'quotedbl'
+p656
 S'semicolon'
+p657
 S'underscore'
+p658
 S'braceleft'
+p659
 S'braceright'
+p660
 S'bracketleft'
+p661
 S'bracketright'
+p662
 S'parenleft'
+p663
 S'parenright'
+p664
 S'hyphen'
+p665
 S'uni00AD'
+p666
 S'guillemotleft'
+p667
 S'guillemotright'
+p668
 S'guilsinglleft'
+p669
 S'guilsinglright'
+p670
 S'quotedblleft'
+p671
 S'quotedblright'
+p672
 S'quoteleft'
+p673
 S'quoteright'
+p674
 S'space'
+p675
 S'florin'
+p676
 S'Euro'
+p677
 S'cent'
+p678
 S'currency'
+p679
 S'sterling'
+p680
 S'yen'
+p681
 S'asciitilde'
+p682
 S'divide'
+p683
 S'equal'
+p684
 S'greater'
+p685
 S'greaterequal'
+p686
 S'less'
+p687
 S'lessequal'
+p688
 S'logicalnot'
+p689
 S'minus'
+p690
 S'multiply'
+p691
 S'notequal'
+p692
 S'percent'
+p693
 S'perthousand'
+p694
 S'plus'
+p695
 S'ampersand'
+p696
 S'at'
+p697
 S'bar'
+p698
 S'brokenbar'
+p699
 S'copyright'
+p700
 S'dagger'
+p701
 S'daggerdbl'
+p702
 S'degree'
+p703
 S'paragraph'
+p704
 S'registered'
+p705
 S'section'
+p706
 S'trademark'
+p707
 S'asciicircum'
+p708
 S'uni0307'
+p709
 S'uni030F'
+p710
 S'uni0311'
+p711
 S'uni0326'
+p712
 S'acute'
+p713
 S'breve'
+p714
 S'caron'
+p715
 S'cedilla'
+p716
 S'circumflex'
+p717
 S'dieresis'
+p718
 S'dotaccent'
+p719
 S'grave'
+p720
 S'hungarumlaut'
+p721
 S'macron'
+p722
 S'ogonek'
+p723
 S'ring'
+p724
 S'tilde'
-tp14
-sS'com.typemytype.robofont.compileSettings.decompose'
-p15
-I1
+p725
+tp726
 sS'com.typemytype.robofont.sort'
-p16
-((dp17
+p727
+((dp728
 S'allowPseudoUnicode'
-p18
+p729
 I01
 sS'type'
-p19
+p730
 S'alphabetical'
-p20
+p731
 sS'ascending'
-p21
+p732
 I01
-s(dp22
-g18
+s(dp733
+g729
 I01
-sg19
+sg730
 S'category'
-p23
-sg21
+p734
+sg732
 I01
-s(dp24
-g18
+s(dp735
+g729
 I01
-sg19
+sg730
 S'unicode'
-p25
-sg21
+p736
+sg732
 I01
-s(dp26
-g18
+s(dp737
+g729
 I01
-sg19
+sg730
 S'script'
-p27
-sg21
+p738
+sg732
 I01
-s(dp28
-g18
+s(dp739
+g729
 I01
-sg19
+sg730
 S'suffix'
-p29
-sg21
+p740
+sg732
 I01
-s(dp30
-g18
+s(dp741
+g729
 I01
-sg19
+sg730
 S'decompositionBase'
-p31
-sg21
+p742
+sg732
 I01
-stp32
+stp743
 sS'com.schriftgestaltung.width'
-p33
+p744
 S'Extended'
-p34
+p745
 sS'com.typemytype.robofont.compileSettings.MacRomanFirst'
-p35
+p746
 I1
 s."
 Encoding: Custom
@@ -1035,7 +1745,6 @@ Grid
   Named: "xheight" 
 EndSplineSet
 TeXData: 1 0 0 224256 112128 74752 515072 -1048576 74752 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "bot"  "diacritics subtable" "top"  "diacritics subtable" 
 BeginChars: 65536 424
 
 StartChar: A
@@ -1043,8 +1752,6 @@ Encoding: 33 65 0
 Width: 1871
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 960 1420 basechar 0
-AnchorPoint: "bot" 1650 14 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1235,7 +1942,6 @@ Encoding: 34 66 11
 Width: 2270
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1065 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1275,8 +1981,6 @@ Encoding: 35 67 12
 Width: 2185
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1110 1420 basechar 0
-AnchorPoint: "bot" 1100 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1360,7 +2064,6 @@ Encoding: 36 68 18
 Width: 2208
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1027 1393 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1409,8 +2112,6 @@ Encoding: 37 69 21
 Width: 1690
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 888 1436 basechar 0
-AnchorPoint: "bot" 920 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1672,7 +2373,6 @@ Encoding: 38 70 34
 Width: 1630
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 861 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1705,8 +2405,6 @@ Encoding: 39 71 35
 Width: 2282
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1132 1420 basechar 0
-AnchorPoint: "bot" 1130 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1790,7 +2488,6 @@ Encoding: 40 72 40
 Width: 2038
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1034 1434 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1891,8 +2588,6 @@ Encoding: 41 73 43
 Width: 535
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 266 1438 basechar 0
-AnchorPoint: "bot" 257 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2023,7 +2718,6 @@ Encoding: 42 74 54
 Width: 1180
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 833 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2057,7 +2751,6 @@ Encoding: 43 75 56
 Width: 1604
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 745 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2105,7 +2798,6 @@ Encoding: 44 76 58
 Width: 1339
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 778 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2213,7 +2905,6 @@ Encoding: 45 77 64
 Width: 2412
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1220 1406 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2254,8 +2945,6 @@ Encoding: 46 78 65
 Width: 2033
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1030 1436 basechar 0
-AnchorPoint: "bot" 1002 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2332,8 +3021,6 @@ Encoding: 47 79 70
 Width: 2174
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1088 1420 basechar 0
-AnchorPoint: "bot" 1100 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2523,7 +3210,6 @@ Encoding: 48 80 81
 Width: 2011
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 936 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2585,7 +3271,6 @@ Encoding: 50 82 83
 Width: 2129
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 994 1434 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2661,8 +3346,6 @@ Encoding: 51 83 87
 Width: 1963
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 991 1426 basechar 0
-AnchorPoint: "bot" 950 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2751,8 +3434,6 @@ Encoding: 52 84 93
 Width: 1683
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 847 0 mark 0
-AnchorPoint: "top" 841 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2877,8 +3558,6 @@ Encoding: 53 85 98
 Width: 2212
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1126 1414 basechar 0
-AnchorPoint: "bot" 1100 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3042,7 +3721,6 @@ Encoding: 55 87 110
 Width: 3291
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1640 1393 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3160,7 +3838,6 @@ Encoding: 57 89 116
 Width: 1660
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 860 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3234,7 +3911,6 @@ Encoding: 58 90 121
 Width: 1609
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 850 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3300,8 +3976,6 @@ Encoding: 65 97 125
 Width: 1680
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 880 1007 basechar 0
-AnchorPoint: "bot" 1460 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3373,7 +4047,6 @@ Encoding: 114 180 129
 Width: 1745
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 860 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3921,7 +4594,6 @@ Encoding: 363 728 149
 Width: 1176
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 642 1043 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3969,8 +4641,6 @@ Encoding: 67 99 151
 Width: 1538
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 859 1024 basechar 0
-AnchorPoint: "bot" 870 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4011,7 +4681,6 @@ Encoding: 362 711 153
 Width: 846
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 430 1051 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4085,7 +4754,6 @@ Encoding: 118 184 158
 Width: 716
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 410 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4155,7 +4823,6 @@ Encoding: 361 710 160
 Width: 846
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 428 1007 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4214,7 +4881,6 @@ Encoding: 12 44 162
 Width: 594
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 296 450 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4519,7 +5185,6 @@ Encoding: 102 168 171
 Width: 1181
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 585 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4587,7 +5252,6 @@ Encoding: 364 729 173
 Width: 546
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 290 1180 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4608,7 +5272,6 @@ Encoding: 239 305 174
 Width: 538
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 265 1005 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4629,7 +5292,6 @@ Encoding: 360 567 175
 Width: 774
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 490 1006 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4656,8 +5318,6 @@ Encoding: 69 101 176
 Width: 1599
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 837 1010 basechar 0
-AnchorPoint: "bot" 869 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5118,7 +5778,6 @@ Encoding: 71 103 196
 Width: 1547
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 696 1024 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5254,7 +5913,6 @@ Encoding: 64 96 202
 Width: 1745
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 860 1024 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5498,7 +6156,6 @@ Encoding: 72 104 209
 Width: 1534
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 868 997 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5584,7 +6241,6 @@ Encoding: 368 733 212
 Width: 1781
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 900 1093 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5638,7 +6294,6 @@ Encoding: 73 105 214
 Width: 538
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 260 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5811,8 +6466,6 @@ Encoding: 75 107 226
 Width: 1677
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 808 1010 basechar 0
-AnchorPoint: "bot" 820 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5906,7 +6559,6 @@ Encoding: 76 108 229
 Width: 538
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 680 1007 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6062,7 +6714,6 @@ Encoding: 77 109 237
 Width: 2523
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1347 1022 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6107,7 +6758,6 @@ Encoding: 109 175 238
 Width: 1050
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 520 460 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6188,7 +6838,6 @@ Encoding: 78 110 241
 Width: 1529
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 868 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6414,8 +7063,6 @@ Encoding: 79 111 250
 Width: 1639
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 822 1010 basechar 0
-AnchorPoint: "bot" 825 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6522,7 +7169,6 @@ Encoding: 366 731 256
 Width: 716
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 360 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7229,7 +7875,6 @@ Encoding: 82 114 281
 Width: 1011
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 669 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7343,7 +7988,6 @@ Encoding: 365 730 286
 Width: 1717
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 820 1250 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7365,8 +8009,6 @@ Encoding: 83 115 287
 Width: 1550
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 790 0 basechar 0
-AnchorPoint: "top" 777 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7644,8 +8286,6 @@ Encoding: 84 116 299
 Width: 1171
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 736 0 basechar 0
-AnchorPoint: "top" 676 1431 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7783,7 +8423,6 @@ Encoding: 367 732 304
 Width: 1644
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 880 1400 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7893,8 +8532,6 @@ Encoding: 85 117 307
 Width: 1530
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 757 997 basechar 0
-AnchorPoint: "bot" 1300 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8484,7 +9121,6 @@ Encoding: 369 775 357
 Width: 546
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 290 1180 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8505,7 +9141,6 @@ Encoding: 370 783 358
 Width: 1781
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 900 1093 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8539,7 +9174,6 @@ Encoding: 371 785 359
 Width: 1176
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 642 1043 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8558,7 +9192,6 @@ Encoding: 372 806 360
 Width: 1745
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 850 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9084,7 +9717,6 @@ Encoding: 87 119 384
 Width: 2505
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1255 1004 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9216,7 +9848,6 @@ Encoding: 89 121 390
 Width: 1544
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 818 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9349,7 +9980,6 @@ Encoding: 90 122 396
 Width: 1457
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 724 1006 basechar 0
 LayerCount: 2
 Fore
 SplineSet

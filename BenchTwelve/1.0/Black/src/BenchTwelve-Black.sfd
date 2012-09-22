@@ -21,29 +21,28 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1342436392
-ModificationTime: 1348246459
+ModificationTime: 1348275219
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 6
 LineGap: 0
 VLineGap: 0
 OS2TypoAscent: 2020
-OS2TypoAOffset: 1
+OS2TypoAOffset: 0
 OS2TypoDescent: -720
-OS2TypoDOffset: 1
+OS2TypoDOffset: 0
 OS2TypoLinegap: 0
 OS2WinAscent: 2020
 OS2WinAOffset: 0
 OS2WinDescent: 720
 OS2WinDOffset: 0
 HheadAscent: 2020
-HheadAOffset: 1
+HheadAOffset: 0
 HheadDescent: -720
-HheadDOffset: 1
+HheadDOffset: 0
 OS2Vendor: 'newt'
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  "'kern' Horizontal Kerning lookup 2 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "diacritics"  {"diacritics subtable"  } ['mark' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 33 27 "'kern' Horizontal Kerning lookup 2 kerning class 1" 
@@ -116,807 +115,439 @@ sS'org.robofab.glyphOrder'
 p4
 (S'A'
 S'Aacute'
-p5
 S'Abreve'
-p6
 S'Acircumflex'
-p7
 S'Adieresis'
-p8
 S'Agrave'
-p9
 S'Amacron'
-p10
 S'Aogonek'
-p11
 S'Aring'
-p12
 S'Atilde'
-p13
 S'AE'
-p14
 S'B'
 S'C'
 S'Cacute'
-p15
 S'Ccaron'
-p16
 S'Ccedilla'
-p17
 S'Ccircumflex'
-p18
 S'Cdotaccent'
-p19
 S'D'
 S'Eth'
-p20
 S'Dcaron'
-p21
 S'Dcroat'
-p22
 S'E'
 S'Eacute'
-p23
 S'Ebreve'
-p24
 S'Ecaron'
-p25
 S'Ecircumflex'
-p26
 S'Edieresis'
-p27
 S'Edotaccent'
-p28
 S'Egrave'
-p29
 S'Emacron'
-p30
 S'Eogonek'
-p31
 S'F'
 S'G'
 S'Gbreve'
-p32
 S'Gcircumflex'
-p33
 S'Gcommaaccent'
-p34
 S'Gdotaccent'
-p35
 S'H'
 S'Hbar'
-p36
 S'Hcircumflex'
-p37
 S'I'
 S'IJ'
-p38
 S'Iacute'
-p39
 S'Ibreve'
-p40
 S'Icircumflex'
-p41
 S'Idieresis'
-p42
 S'Idotaccent'
-p43
 S'Igrave'
-p44
 S'Imacron'
-p45
 S'Iogonek'
-p46
 S'Itilde'
-p47
 S'J'
 S'Jcircumflex'
-p48
 S'K'
 S'Kcommaaccent'
-p49
 S'L'
 S'Lacute'
-p50
 S'Lcaron'
-p51
 S'Lcommaaccent'
-p52
 S'Ldot'
-p53
 S'Lslash'
-p54
 S'M'
 S'N'
 S'Nacute'
-p55
 S'Ncaron'
-p56
 S'Ncommaaccent'
-p57
 S'Eng'
-p58
 S'Ntilde'
-p59
 S'O'
 S'Oacute'
-p60
 S'Obreve'
-p61
 S'Ocircumflex'
-p62
 S'Odieresis'
-p63
 S'Ograve'
-p64
 S'Ohungarumlaut'
-p65
 S'Omacron'
-p66
 S'Oslash'
-p67
 S'Otilde'
-p68
 S'OE'
-p69
 S'P'
 S'Thorn'
-p70
 S'Q'
 S'R'
 S'Racute'
-p71
 S'Rcaron'
-p72
 S'Rcommaaccent'
-p73
 S'S'
 S'Sacute'
-p74
 S'Scaron'
-p75
 S'Scedilla'
-p76
 S'Scircumflex'
-p77
 S'Scommaaccent'
-p78
 S'T'
 S'Tbar'
-p79
 S'Tcaron'
-p80
 S'U'
 S'Uacute'
-p81
 S'Ubreve'
-p82
 S'Ucircumflex'
-p83
 S'Udieresis'
-p84
 S'Ugrave'
-p85
 S'Uhungarumlaut'
-p86
 S'Umacron'
-p87
 S'Uogonek'
-p88
 S'Uring'
-p89
 S'Utilde'
-p90
 S'V'
 S'W'
 S'Wacute'
-p91
 S'Wcircumflex'
-p92
 S'Wdieresis'
-p93
 S'Wgrave'
-p94
 S'X'
 S'Y'
 S'Yacute'
-p95
 S'Ycircumflex'
-p96
 S'Ydieresis'
-p97
 S'Ygrave'
-p98
 S'Z'
 S'Zacute'
-p99
 S'Zcaron'
-p100
 S'Zdotaccent'
-p101
 S'uni01C4'
-p102
 S'uni01C5'
-p103
 S'uni01C7'
-p104
 S'uni01C8'
-p105
 S'uni01CA'
-p106
 S'uni01CB'
-p107
 S'uni01F1'
-p108
 S'uni01F2'
-p109
 S'uni01F4'
-p110
 S'uni0200'
-p111
 S'uni0202'
-p112
 S'uni0204'
-p113
 S'uni0206'
-p114
 S'uni0208'
-p115
 S'uni020A'
-p116
 S'uni020C'
-p117
 S'uni020E'
-p118
 S'uni0210'
-p119
 S'uni0212'
-p120
 S'uni0214'
-p121
 S'uni0216'
-p122
 S'uni021A'
-p123
 S'uni1E02'
-p124
 S'uni1E0A'
-p125
 S'uni1E1E'
-p126
 S'uni1E40'
-p127
 S'uni1E56'
-p128
 S'uni1E60'
-p129
 S'uni1E6A'
-p130
 S'a'
 S'aacute'
-p131
 S'abreve'
-p132
 S'acircumflex'
-p133
 S'adieresis'
-p134
 S'agrave'
-p135
 S'amacron'
-p136
 S'aogonek'
-p137
 S'aring'
-p138
 S'atilde'
-p139
 S'ae'
-p140
 S'b'
 S'c'
 S'cacute'
-p141
 S'ccaron'
-p142
 S'ccedilla'
-p143
 S'ccircumflex'
-p144
 S'cdotaccent'
-p145
 S'd'
 S'eth'
-p146
 S'dcaron'
-p147
 S'dcroat'
-p148
 S'e'
 S'eacute'
-p149
 S'ebreve'
-p150
 S'ecaron'
-p151
 S'ecircumflex'
-p152
 S'edieresis'
-p153
 S'edotaccent'
-p154
 S'egrave'
-p155
 S'emacron'
-p156
 S'eogonek'
-p157
 S'f'
 S'g'
 S'gbreve'
-p158
 S'gcircumflex'
-p159
 S'gcommaaccent'
-p160
 S'gdotaccent'
-p161
 S'h'
 S'hbar'
-p162
 S'hcircumflex'
-p163
 S'i'
 S'dotlessi'
-p164
 S'iacute'
-p165
 S'ibreve'
-p166
 S'icircumflex'
-p167
 S'idieresis'
-p168
 S'igrave'
-p169
 S'ij'
-p170
 S'imacron'
-p171
 S'iogonek'
-p172
 S'itilde'
-p173
 S'j'
 S'dotlessj'
-p174
 S'jcircumflex'
-p175
 S'k'
 S'kcommaaccent'
-p176
 S'kgreenlandic'
-p177
 S'l'
 S'lacute'
-p178
 S'lcaron'
-p179
 S'lcommaaccent'
-p180
 S'ldot'
-p181
 S'lslash'
-p182
 S'm'
 S'n'
 S'nacute'
-p183
 S'napostrophe'
-p184
 S'ncaron'
-p185
 S'ncommaaccent'
-p186
 S'eng'
-p187
 S'ntilde'
-p188
 S'o'
 S'oacute'
-p189
 S'obreve'
-p190
 S'ocircumflex'
-p191
 S'odieresis'
-p192
 S'ograve'
-p193
 S'ohungarumlaut'
-p194
 S'omacron'
-p195
 S'oslash'
-p196
 S'otilde'
-p197
 S'oe'
-p198
 S'p'
 S'thorn'
-p199
 S'q'
 S'r'
 S'racute'
-p200
 S'rcaron'
-p201
 S'rcommaaccent'
-p202
 S's'
 S'sacute'
-p203
 S'scaron'
-p204
 S'scedilla'
-p205
 S'scircumflex'
-p206
 S'scommaaccent'
-p207
 S'germandbls'
-p208
 S't'
 S'tbar'
-p209
 S'tcaron'
-p210
 S'u'
 S'uacute'
-p211
 S'ubreve'
-p212
 S'ucircumflex'
-p213
 S'udieresis'
-p214
 S'ugrave'
-p215
 S'uhungarumlaut'
-p216
 S'umacron'
-p217
 S'uni01C6'
-p218
 S'uni01C9'
-p219
 S'uni01CC'
-p220
 S'uni01F3'
-p221
 S'uni01F5'
-p222
 S'uni0201'
-p223
 S'uni0203'
-p224
 S'uni0205'
-p225
 S'uni0207'
-p226
 S'uni0209'
-p227
 S'uni020B'
-p228
 S'uni020D'
-p229
 S'uni020F'
-p230
 S'uni0211'
-p231
 S'uni0213'
-p232
 S'uni0215'
-p233
 S'uni0217'
-p234
 S'uni021B'
-p235
 S'uni1E03'
-p236
 S'uni1E0B'
-p237
 S'uni1E1F'
-p238
 S'uni1E41'
-p239
 S'uni1E57'
-p240
 S'uni1E61'
-p241
 S'uni1E6B'
-p242
 S'uogonek'
-p243
 S'uring'
-p244
 S'utilde'
-p245
 S'v'
 S'w'
 S'wacute'
-p246
 S'wcircumflex'
-p247
 S'wdieresis'
-p248
 S'wgrave'
-p249
 S'x'
 S'y'
 S'yacute'
-p250
 S'ycircumflex'
-p251
 S'ydieresis'
-p252
 S'ygrave'
-p253
 S'z'
 S'zacute'
-p254
 S'zcaron'
-p255
 S'zdotaccent'
-p256
 S'uniFB01'
-p257
 S'uniFB02'
-p258
 S'uniFB00'
-p259
 S'uniFB03'
-p260
 S'uniFB04'
-p261
 S'mu'
-p262
 S'zero'
-p263
 S'one'
-p264
 S'two'
-p265
 S'three'
-p266
 S'four'
-p267
 S'five'
-p268
 S'six'
-p269
 S'seven'
-p270
 S'eight'
-p271
 S'nine'
-p272
 S'fraction'
-p273
 S'onehalf'
-p274
 S'onequarter'
-p275
 S'threequarters'
-p276
 S'onesuperior'
-p277
 S'twosuperior'
-p278
 S'threesuperior'
-p279
 S'ordfeminine'
-p280
 S'ordmasculine'
-p281
 S'asterisk'
-p282
 S'backslash'
-p283
 S'colon'
-p284
 S'comma'
-p285
 S'ellipsis'
-p286
 S'exclam'
-p287
 S'exclamdown'
-p288
 S'numbersign'
-p289
 S'period'
-p290
 S'periodcentered'
-p291
 S'question'
-p292
 S'questiondown'
-p293
 S'quotedbl'
-p294
 S'quotesingle'
-p295
 S'semicolon'
-p296
 S'slash'
-p297
 S'underscore'
-p298
 S'braceleft'
-p299
 S'braceright'
-p300
 S'bracketleft'
-p301
 S'bracketright'
-p302
 S'parenleft'
-p303
 S'parenright'
-p304
 S'emdash'
-p305
 S'endash'
-p306
 S'hyphen'
-p307
 S'uni00AD'
-p308
 S'guillemotleft'
-p309
 S'guillemotright'
-p310
 S'guilsinglleft'
-p311
 S'guilsinglright'
-p312
 S'quotedblbase'
-p313
 S'quotedblleft'
-p314
 S'quotedblright'
-p315
 S'quoteleft'
-p316
 S'quoteright'
-p317
 S'quotesinglbase'
-p318
 S'space'
-p319
 S'florin'
-p320
 S'Euro'
-p321
 S'cent'
-p322
 S'currency'
-p323
 S'dollar'
-p324
 S'sterling'
-p325
 S'yen'
-p326
 S'asciitilde'
-p327
 S'divide'
-p328
 S'equal'
-p329
 S'greater'
-p330
 S'greaterequal'
-p331
 S'less'
-p332
 S'lessequal'
-p333
 S'logicalnot'
-p334
 S'minus'
-p335
 S'multiply'
-p336
 S'notequal'
-p337
 S'percent'
-p338
 S'perthousand'
-p339
 S'plus'
-p340
 S'plusminus'
-p341
 S'ampersand'
-p342
 S'at'
-p343
 S'bar'
-p344
 S'brokenbar'
-p345
 S'copyright'
-p346
 S'dagger'
-p347
 S'daggerdbl'
-p348
 S'degree'
-p349
 S'paragraph'
-p350
 S'registered'
-p351
 S'section'
-p352
 S'trademark'
-p353
 S'asciicircum'
-p354
 S'uni0307'
-p355
 S'uni030F'
-p356
 S'uni0311'
-p357
 S'uni0326'
-p358
 S'acute'
-p359
 S'breve'
-p360
 S'caron'
-p361
 S'cedilla'
-p362
 S'circumflex'
-p363
 S'dieresis'
-p364
 S'dotaccent'
-p365
 S'grave'
-p366
 S'hungarumlaut'
-p367
 S'macron'
-p368
 S'ogonek'
-p369
 S'ring'
-p370
 S'tilde'
-p371
-tp372
+tp5
 s."
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -72
+DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 307
-WinInfo: 30 10 7
+WinInfo: 0 33 13
 BeginPrivate: 3
 BlueFuzz 1 1
 BlueScale 19 0.02773750014603138
 BlueShift 1 5
 EndPrivate
-AnchorClass2: "top"  "diacritics subtable" "bot"  "diacritics subtable" 
 BeginChars: 65539 419
 
 StartChar: A
@@ -924,8 +555,6 @@ Encoding: 65 65 0
 Width: 2440
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1951 0 basechar 0
-AnchorPoint: "top" 1234 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1117,7 +746,6 @@ Encoding: 66 66 11
 Width: 2391
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1065 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1157,8 +785,6 @@ Encoding: 67 67 12
 Width: 2475
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1327 0 basechar 0 {150-150 2} {}
-AnchorPoint: "top" 1290 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1244,7 +870,6 @@ Encoding: 68 68 18
 Width: 2421
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1157 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1294,8 +919,6 @@ Encoding: 69 69 21
 Width: 2208
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1132 0 basechar 0
-AnchorPoint: "top" 1120 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1560,7 +1183,6 @@ Encoding: 70 70 34
 Width: 2095
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1100 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1594,8 +1216,6 @@ Encoding: 71 71 35
 Width: 2485
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1262 0 basechar 0
-AnchorPoint: "top" 1313 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1677,7 +1297,6 @@ Encoding: 72 72 40
 Width: 2391
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1192 1434 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1778,8 +1397,6 @@ Encoding: 73 73 43
 Width: 1001
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 496 0 basechar 0
-AnchorPoint: "top" 504 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1910,7 +1527,6 @@ Encoding: 74 74 54
 Width: 1401
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 833 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1944,7 +1560,6 @@ Encoding: 75 75 56
 Width: 2199
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1055 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1991,7 +1606,6 @@ Encoding: 76 76 58
 Width: 1997
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 778 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2099,7 +1713,6 @@ Encoding: 77 77 64
 Width: 2946
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1470 1406 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2141,8 +1754,6 @@ Encoding: 78 78 65
 Width: 2542
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1205 0 basechar 0
-AnchorPoint: "top" 1343 1436 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2221,8 +1832,6 @@ Encoding: 79 79 70
 Width: 2667
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1333 0 basechar 0
-AnchorPoint: "top" 1331 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2413,7 +2022,6 @@ Encoding: 80 80 81
 Width: 2376
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1106 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2473,7 +2081,6 @@ Encoding: 82 82 83
 Width: 2405
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1094 1434 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2548,8 +2155,6 @@ Encoding: 83 83 87
 Width: 2427
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1194 3 basechar 0
-AnchorPoint: "top" 1169 1426 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2639,8 +2244,6 @@ Encoding: 84 84 93
 Width: 2123
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1060 0 mark 0
-AnchorPoint: "top" 1054 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2755,8 +2358,6 @@ Encoding: 85 85 97
 Width: 2629
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1339 -5 basechar 0
-AnchorPoint: "top" 1327 1414 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2920,7 +2521,6 @@ Encoding: 87 87 109
 Width: 3328
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1682 1393 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3038,7 +2638,6 @@ Encoding: 89 89 115
 Width: 2233
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1161 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3112,7 +2711,6 @@ Encoding: 90 90 120
 Width: 2067
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1070 1438 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3180,8 +2778,6 @@ Encoding: 97 97 124
 Width: 1972
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1705 0 basechar 0
-AnchorPoint: "top" 991 1007 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3254,7 +2850,6 @@ Encoding: 180 180 128
 Width: 1745
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 869 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3788,7 +3383,6 @@ Encoding: 728 728 148
 Width: 1366
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 678 1043 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3836,8 +3430,6 @@ Encoding: 99 99 150
 Width: 1798
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1028 0 basechar 0
-AnchorPoint: "top" 989 1024 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3879,7 +3471,6 @@ Encoding: 711 711 152
 Width: 998
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 457 1051 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3953,7 +3544,6 @@ Encoding: 184 184 157
 Width: 716
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 410 -150 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4024,7 +3614,6 @@ Encoding: 710 710 159
 Width: 937
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 428 1007 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4083,7 +3672,6 @@ Encoding: 44 44 161
 Width: 648
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 296 432 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4394,7 +3982,6 @@ Encoding: 168 168 170
 Width: 1265
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 610 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4513,7 +4100,6 @@ Encoding: 729 729 173
 Width: 609
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 14 6 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4534,7 +4120,6 @@ Encoding: 305 305 174
 Width: 856
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 431 1006 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4555,7 +4140,6 @@ Encoding: 567 567 175
 Width: 1180
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 710 1006 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4580,8 +4164,6 @@ Encoding: 101 101 176
 Width: 1900
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1079 0 basechar 0
-AnchorPoint: "top" 1000 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5095,7 +4677,6 @@ Encoding: 103 103 200
 Width: 1761
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 696 1024 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5230,7 +4811,6 @@ Encoding: 96 96 206
 Width: 1745
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 974.5 1024 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5465,7 +5045,6 @@ Encoding: 104 104 213
 Width: 2022
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1216 997 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5552,7 +5131,6 @@ Encoding: 733 733 216
 Width: 1531
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 665 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5606,7 +5184,6 @@ Encoding: 105 105 218
 Width: 869
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 438 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5780,8 +5357,6 @@ Encoding: 107 107 230
 Width: 2006
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 916 -3 basechar 0
-AnchorPoint: "top" 968 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5875,7 +5450,6 @@ Encoding: 108 108 233
 Width: 872
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 880 1007 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6055,7 +5629,6 @@ Encoding: 109 109 242
 Width: 2960
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1617 1022 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6099,7 +5672,6 @@ Encoding: 175 175 243
 Width: 1067
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 552 1033 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6216,7 +5788,6 @@ Encoding: 110 110 247
 Width: 2024
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1136 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6408,8 +5979,6 @@ Encoding: 111 111 256
 Width: 2002
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 998 0 basechar 0
-AnchorPoint: "top" 1007 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6515,7 +6084,6 @@ Encoding: 731 731 262
 Width: 716
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 430 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6598,6 +6166,26 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+2144.74023438 0.6904296875 m 2
+ 3226.33984375 0.6904296875 l 2
+ 3253.21972656 0.6904296875 3262.8203125 14.490234375 3262.8203125 47.6103515625 c 2
+ 3262.8203125 166.98046875 l 2
+ 3262.8203125 198.719726562 3248.09960938 211.139648438 3226.98046875 211.139648438 c 2
+ 2569.70019531 211.139648438 l 2
+ 2546.66015625 211.139648438 2533.86035156 222.1796875 2533.86035156 241.5 c 0
+ 2533.86035156 267.030273438 2542.1796875 271.169921875 2553.05957031 275.309570312 c 1
+ 2800.40722656 412.647460938 3291.53027344 302.626953125 3291.53027344 674.697265625 c 0
+ 3291.53027344 976.288085938 3019.03710938 1018.44042969 2648.41992188 1018.44042969 c 0
+ 2482.01953125 1017.75 2240.09960938 966.690429688 2146.66015625 921.83984375 c 0
+ 2128.74023438 913.559570312 2122.33984375 899.759765625 2122.33984375 874.23046875 c 0
+ 2122.33984375 871.469726562 2141.54003906 787.290039062 2164.58007812 741.059570312 c 1
+ 2167.78027344 726.5703125 2180.58007812 720.360351562 2202.98046875 720.360351562 c 0
+ 2212.58007812 720.360351562 2221.54003906 723.120117188 2234.33984375 727.259765625 c 0
+ 2250.33984375 732.780273438 2513.37988281 803.849609375 2718.1796875 803.849609375 c 0
+ 2922.33984375 803.849609375 2935.78027344 762.450195312 2935.78027344 714.83984375 c 0
+ 2935.78027344 536.8203125 2149.86035156 756.240234375 2087.13964844 142.830078125 c 0
+ 2086.5 135.240234375 2079.45996094 71.0703125 2079.45996094 64.169921875 c 0
+ 2079.45996094 25.5302734375 2103.78027344 0.6904296875 2144.74023438 0.6904296875 c 2
 1204 -206 m 0
  1223 -206 1261 -195 1270 -178 c 1
  1276 -178 2160 1620 2155 1620 c 1
@@ -6620,31 +6208,6 @@ SplineSet
  428 1151 440 1139 440 1125 c 2
  440 484 l 2
  440 454 463 431 493 431 c 2
-2462 0 m 0
- 2470 0 3327 3 3327 13 c 1
- 3349 13 3356 50 3356 74 c 0
- 3356 84 3352 184 3345 184 c 1
- 3345 207 3093 216 3076 216 c 0
- 3069 216 2578 219 2577 223 c 1
- 2558 228 2550 239 2553 254 c 1
- 2617 352 2837 285 2839 427 c 1
- 3011.3 545.606 3224.06 544.757 3224.06 691.056 c 0
- 3224.06 727.313 3210.99 772.609 3181 831 c 1
- 3119.61 986.132 2913.7 1019.45 2670.03 1019.45 c 0
- 2619.97 1019.45 2568.32 1018.05 2516 1016 c 1
- 2379 1013 2188 973 2112 931 c 1
- 2103.13 927.199 2099.08 915.372 2099.08 899.077 c 0
- 2099.08 889.65 2100.43 878.728 2103 867 c 0
- 2105 860 2126 787 2151 754 c 1
- 2157 743 2170 740 2192 741 c 1
- 2205 743 2290 767 2365 770 c 0
- 2436.18 772.847 2572.21 791.4 2703.13 791.4 c 0
- 2756.14 791.4 2808.31 788.358 2855 780 c 1
- 2883.41 764.878 2894.86 755.56 2894.86 748.472 c 0
- 2894.86 720.873 2721.28 727.064 2699 556 c 1
- 2699 445 2094 568 2052 129 c 1
- 2052 112 2053 51 2066 46 c 1
- 2066 18 2429 0 2462 0 c 0
 EndSplineSet
 EndChar
 
@@ -7445,7 +7008,6 @@ Encoding: 114 114 295
 Width: 1362
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 699 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7558,7 +7120,6 @@ Encoding: 730 730 300
 Width: 1717
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 860 1536 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7580,8 +7141,6 @@ Encoding: 115 115 301
 Width: 1827
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 895 1010 basechar 0
-AnchorPoint: "bot" 915 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7882,8 +7441,6 @@ Encoding: 116 116 314
 Width: 1605
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1006 0 mark 0
-AnchorPoint: "top" 676 1431 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8059,14 +7616,14 @@ EndChar
 
 StartChar: threequarters
 Encoding: 190 190 319
-Width: 5689
+Width: 3860
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
-Refer: 199 8260 N 1 0 0 1 1266 0 2
-Refer: 318 51 N 0.71 0 0 0.71 43 431 2
-Refer: 198 52 N 0.7 0 0 0.7 0 0 2
+Refer: 199 8260 N 1 0 0 1 1265.9 0 2
+Refer: 318 51 N 0.71 0 0 0.71 42.9002 431 2
+Refer: 198 52 S 0.7 0 0 0.7 2336.9 0 2
 EndChar
 
 StartChar: uni00B3
@@ -8084,7 +7641,6 @@ Encoding: 732 732 321
 Width: 1465
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 726 686 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8170,26 +7726,26 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-238 1 m 2
- 1928 1 l 2
- 1970 1 1985 21 1985 69 c 2
- 1985 242 l 2
- 1985 288 1962 306 1929 306 c 2
- 902 306 l 2
- 866 306 846 322 846 350 c 0
- 846 387 859 393 876 399 c 1
- 1262.48 598.04 2029.86 438.59 2029.86 977.822 c 0
- 2029.86 1414.91 1604.09 1476 1025 1476 c 1
- 765 1475 387 1401 241 1336 c 0
- 213 1324 203 1304 203 1267 c 0
- 203 1263 233 1141 269 1074 c 1
- 274 1053 294 1044 329 1044 c 0
- 344 1044 358 1048 378 1054 c 0
- 403 1062 814 1165 1134 1165 c 0
- 1453 1165 1474 1105 1474 1036 c 0
- 1474 778 246 1096 148 207 c 0
- 147 196 136 103 136 93 c 0
- 136 37 174 1 238 1 c 2
+238 1 m 6
+ 1928 1 l 6
+ 1970 1 1985 21 1985 69 c 6
+ 1985 242 l 6
+ 1985 288 1962 306 1929 306 c 6
+ 902 306 l 6
+ 866 306 846 322 846 350 c 4
+ 846 387 859 393 876 399 c 5
+ 1262.48 598.04 2029.86 438.59 2029.86 977.822 c 4
+ 2029.86 1414.91 1604.09 1476 1025 1476 c 5
+ 765 1475 387 1401 241 1336 c 4
+ 213 1324 203 1304 203 1267 c 4
+ 203 1263 233 1141 269 1074 c 5
+ 274 1053 294 1044 329 1044 c 4
+ 344 1044 358 1048 378 1054 c 4
+ 403 1062 814 1165 1134 1165 c 4
+ 1453 1165 1474 1105 1474 1036 c 4
+ 1474 778 246 1096 148 207 c 4
+ 147 196 136 103 136 93 c 4
+ 136 37 174 1 238 1 c 6
 EndSplineSet
 EndChar
 
@@ -8208,8 +7764,6 @@ Encoding: 117 117 325
 Width: 2030
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 1729 3 basechar 0
-AnchorPoint: "top" 1017 997 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8799,7 +8353,6 @@ Encoding: 775 775 375
 Width: 609
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 308 693 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8820,7 +8373,6 @@ Encoding: 783 783 376
 Width: 1531
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 860 983 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8854,7 +8406,6 @@ Encoding: 785 785 377
 Width: 1366
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 669 1043 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8873,7 +8424,6 @@ Encoding: 806 806 378
 Width: 974
 VWidth: 0
 Flags: HW
-AnchorPoint: "bot" 535 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9396,7 +8946,6 @@ Encoding: 119 119 402
 Width: 2682
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 1355 1004 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9528,7 +9077,6 @@ Encoding: 121 121 408
 Width: 1844
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 980 1010 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9660,7 +9208,6 @@ Encoding: 122 122 414
 Width: 1665
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 894 1006 basechar 0
 LayerCount: 2
 Fore
 SplineSet
