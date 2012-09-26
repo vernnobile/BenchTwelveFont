@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>BenchNine</string>
+	<key>styleName</key>
+	<string>Light</string>
+	<key>copyright</key>
+	<string>Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'</string>
+	<key>trademark</key>
+	<string>BenchNine is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1006</integer>
+	<key>capHeight</key>
+	<integer>1438</integer>
+	<key>ascender</key>
+	<integer>1524</integer>
+	<key>descender</key>
+	<integer>-469</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/08/18 18:41:24</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1</string>
+	<key>openTypeNameUniqueID</key>
+	<string>newt : BenchNine Light : 19-9-2012</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2012 by vernon adams. All rights reserved.</string>
+	<key>openTypeNamePreferedFamilyName</key>
+	<string>BenchNine</string>
+	<key>openTypeNamePreferedSubfamilyName</key>
+	<string>Light</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>BenchNine Light</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>300</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2020</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-720</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2020</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>720</integer>
+	<key>postscriptFontName</key>
+	<string>BenchNine-Light</string>
+	<key>postscriptFullName</key>
+	<string>BenchNine Light</string>
+	<key>postscriptWeightName</key>
+	<string>Light</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+    </dict>
+</plist>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rcommaaccent" format="1">
-  <advance width="496"/>
-  <unicode hex="0157"/>
-  <outline>
-    <component base="r"/>
-    <component base="comma" xOffset="101" yOffset="-386"/>
-  </outline>
-</glyph>
